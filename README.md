@@ -63,4 +63,5 @@ Induction report of gurunanak engineering college
 → Showcased the club’s creative and technical activities, inspiring students to participate and explore their talents.
 
 🤝 Peer Interaction Activities
-→ Fun games, open Q&A, and discussions with seniors and faculty helped new students settle in and build connections.
+→ Fun games, open Q&A, and discussions with seniors and faculty helped new students settle in and build connections
+
